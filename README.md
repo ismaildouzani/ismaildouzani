@@ -21,7 +21,8 @@ I love working with a variety of tools and technologies, some of which include:
 
 - **Tools**:
 - 
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-FF9800?style=flat&logo=blender&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-25B2A9?style=flat&logo=api&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-1D1D1B?style=flat&logo=websocket&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-FF9800?style=flat&logo=blender&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-25B2A9?style=flat&logo=api&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-1D1D1B?style=flat&logo=websocket&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=flat&logo=mqtt&logoColor=white)
+
 
 - **Databases**:
 - 
