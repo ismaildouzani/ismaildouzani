@@ -11,16 +11,20 @@ I'm a passionate software developer with a strong focus on Unity, C#, and 3D art
 
 I love working with a variety of tools and technologies, some of which include:
 
-- **Programming Languages**:  
+- **Programming Languages**:
+- 
     ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ffb13b?style=flat&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-- **Frameworks & Libraries**:  
+- **Frameworks & Libraries**:
+- 
     ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat&logo=aspdotnet&logoColor=white)
 
-- **Tools**:  
+- **Tools**:
+- 
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-FF9800?style=flat&logo=blender&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-25B2A9?style=flat&logo=api&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-1D1D1B?style=flat&logo=websocket&logoColor=white)
 
-- **Databases**:  
+- **Databases**:
+- 
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 🌍 Connect with me:
