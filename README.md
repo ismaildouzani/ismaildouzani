@@ -11,7 +11,7 @@ I'm a passionate software developer with a strong focus on Unity, C#, and 3D art
 
 You can view my resume from the following link:
 
-- [Resume](your-resume-link)
+- [Resume](https://github.com/ismaildouzani/ismaildouzani/tree/main)
 
 
 ## 🛠️ Technologies & Tools
