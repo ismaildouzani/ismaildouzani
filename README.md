@@ -5,7 +5,7 @@ I'm a passionate software developer with a strong focus on Unity, C#, and 3D art
 
 - 🔭 I’m software developer specializing in Unity C# developer | 3D Artist and now I working at @OCP Maintenance Solutions;
 - 🌱 I'm currently immersed in .Net domain and honing ASP.Net in my free time.
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/ismail-ed-douzani-b46073152/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ed-douzani-b46073152/)
 
 ## 🛠️ Technologies & Tools
 
