@@ -7,6 +7,13 @@ I'm a passionate software developer with a strong focus on Unity, C#, and 3D art
 - 🌱 I'm currently immersed in the .NET domain and honing my skills with ASP.Net in my free time.
 - 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ed-douzani-b46073152/)
 
+- ## 📄 Resume
+
+You can view/download my resume from the following link:
+
+- [Resume](your-resume-link)
+
+
 ## 🛠️ Technologies & Tools
 
 I love working with a variety of tools and technologies, some of which include:
