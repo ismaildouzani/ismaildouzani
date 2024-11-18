@@ -29,10 +29,7 @@ I love working with a variety of tools and technologies, some of which include:
 
 ## 🌍 Connect with me:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ed-douzani-b46073152/)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IDouzani76875)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ismaildouzani)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ghost&logoColor=white)](your-portfolio-url)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-ed-douzani-b46073152/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/IDouzani76875) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ismaildouzani) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ghost&logoColor=white)](your-portfolio-url)
 
 ## 📈 GitHub Stats
 
