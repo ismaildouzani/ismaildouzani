@@ -43,6 +43,8 @@ I love working with a variety of tools and technologies, some of which include:
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&count_private=true)
+
 
 ## 📝 Latest Blog Posts
 
