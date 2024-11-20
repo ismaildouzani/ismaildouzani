@@ -51,8 +51,6 @@ I love working with a variety of tools and technologies, some of which include:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=light" />
 </a>
 
-<div align="center">
-
 
 ## 📝 Latest Blog Posts
 
