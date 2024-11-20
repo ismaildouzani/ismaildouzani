@@ -45,7 +45,7 @@ I love working with a variety of tools and technologies, some of which include:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&count_private=true)
 
 <a href="https://github.com/ismaildouzani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&theme=light&line_height=40" alt="Imail ED.DOUZANI github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&theme=light&line_height=40" alt="Ismail ED.DOUZANI github stats"/>
 </a>
 <a href="[https://github.com/hamza-ezzahiry/Wolf3D](https://github.com/ismaildouzani/Bull-Launcher/tree/master)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=light" />
