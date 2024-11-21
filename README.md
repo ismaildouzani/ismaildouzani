@@ -49,18 +49,33 @@ I love working with a variety of tools and technologies, some of which include:
 
 ---
 
-### Featured Project: Bull-Launcher  
+### 🌟 Featured Project: **Bull-Launcher**  
 <a href="https://github.com/ismaildouzani/Bull-Launcher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=tokyonight" alt="Bull-Launcher Repository" />
 </a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp" alt="C# Language Badge" />
-  <img src="https://img.shields.io/badge/Use%20Case-Physics%20Launcher-orange?style=for-the-badge" alt="Physics Launcher Use Case Badge" />
-</p>
+---
 
+<div align="center">
+  <p align="center" style="font-size:16px;">
+    <b>🔧 Programming Language:</b>  
+    <img src="https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Language Badge" />
+  </p>
+
+  <p align="center" style="font-size:16px;">
+    <b>🎯 Use Case:</b>  
+    <img src="https://img.shields.io/badge/-Physics%20Launcher-orange?style=flat-square&logo=unity&logoColor=white" alt="Physics Launcher Badge" />
+  </p>
+
+  <p align="center" style="font-size:16px;">
+    <b>📚 Description:</b>  
+    A physics-based game where players aim and launch a bull to complete objectives, hit targets, and navigate obstacles.  
+  </p>
 </div>
 
+---
+
+</div>
 
 
 
