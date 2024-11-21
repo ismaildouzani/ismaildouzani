@@ -42,13 +42,21 @@ I love working with a variety of tools and technologies, some of which include:
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
+### My GitHub Stats  
 <a href="https://github.com/ismaildouzani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&theme=light&line_height=40" alt="Ismail ED.DOUZANI GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismaildouzani&show_icons=true&theme=tokyonight&line_height=30" alt="Ismail ED.DOUZANI GitHub Stats" />
 </a>
 
+---
+
+### Featured Project: Bull-Launcher  
 <a href="https://github.com/ismaildouzani/Bull-Launcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=light" alt="Bull-Launcher Repository" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=tokyonight" alt="Bull-Launcher Repository" />
 </a>
+
+</div>
 
 
 ## 📝 Latest Blog Posts
