@@ -54,15 +54,10 @@ I love working with a variety of tools and technologies, some of which include:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=tokyonight" alt="Bull-Launcher Repository" />
 </a>
 
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildouzani&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-
-#### 🔧 Programming Languages:
-- **C#**: For Unity scripting and game mechanics.
-
-#### 🎯 Use Case:
-- A physics-based launcher game where players aim and launch a bull to complete objectives, hit targets, and navigate obstacles.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=c-sharp" alt="C# Language Badge" />
+  <img src="https://img.shields.io/badge/Use%20Case-Physics%20Launcher-orange?style=for-the-badge" alt="Physics Launcher Use Case Badge" />
+</p>
 
 </div>
 
