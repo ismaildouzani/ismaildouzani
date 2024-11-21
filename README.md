@@ -54,6 +54,10 @@ I love working with a variety of tools and technologies, some of which include:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismaildouzani&repo=Bull-Launcher&theme=tokyonight" alt="Bull-Launcher Repository" />
 </a>
 
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaildouzani&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+
 #### 🔧 Programming Languages:
 - **C#**: For Unity scripting and game mechanics.
 
@@ -61,6 +65,7 @@ I love working with a variety of tools and technologies, some of which include:
 - A physics-based launcher game where players aim and launch a bull to complete objectives, hit targets, and navigate obstacles.
 
 </div>
+
 
 
 
