@@ -1,7 +1,7 @@
 # Hi There I'm Ismail ED.DOUZANI 👋
 
 ## 👨‍💻 About Me
-I'm a passionate software developer with a strong focus on Unity, C#, and 3D art. I enjoy creating interactive and user-friendly applications, working on open-source projects, and constantly improving my skills.
+I'm software developer with a strong focus on Unity, C#, and 3D art. I enjoy creating interactive and user-friendly applications, working on open-source projects, and constantly improving my skills.
 
 - 🔭 I’m a software developer specializing in Unity C# development | 3D Artist, and currently, I’m working at @OCP Maintenance Solutions.
 - 🌱 I'm currently immersed in the .NET domain and honing my skills with ASP.Net in my free time.
