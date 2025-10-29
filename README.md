@@ -62,12 +62,3 @@ I love working with a variety of tools and technologies, some of which include:
 </p>
 
 </div>
-
-
-
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog post title](your-blog-link)
-<!-- BLOG-POST-LIST:END -->
